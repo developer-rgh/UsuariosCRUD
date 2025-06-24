@@ -1,0 +1,5 @@
+com/unsij/dao/UsuarioDAO.class
+com/unsij/controllers/UsuarioController.class
+com/unsij/utils/DBConnection.class
+com/unsij/services/UsuarioService.class
+com/unsij/beans/Usuario.class
